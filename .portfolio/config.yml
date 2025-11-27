@@ -1,0 +1,32 @@
+# .portfolio/config.yml
+name: MSCS CRCs Competition Platform
+slug: mscs-crcs-competition
+description: >
+  A full-stack web application for the MSCS CRCs competition, featuring data visualization,
+  society registration, forms management, and interactive maps. Built with React/TypeScript
+  frontend and Node.js/Express backend with MongoDB database.
+tech_stack:
+  - React
+  - TypeScript
+  - Node.js
+  - Express
+  - MongoDB
+  - Material UI
+  - Chart.js
+  - Google Maps API
+  - PDF.js
+  - JWT
+  - Bcrypt
+tags:
+  - Full-Stack
+  - Web Application
+  - Data Visualization
+  - Competition Platform
+  - MERN
+is_active: true
+readme_path: README.md
+repo_url: https://github.com/Namasivaayam-L/mscs-crcs-competition
+thumbnail: https://raw.githubusercontent.com/Namasivaayam-L/mscs-crcs-competition/main/.portfolio/cover.png
+created_at: 2025-11-27
+updated_at: 2025-11-27
+featured: false
